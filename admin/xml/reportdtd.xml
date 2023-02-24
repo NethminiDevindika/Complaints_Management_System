@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE users[
+
+<!ELEMENT users (staff)+ >
+<!ELEMENT staff (id,name,email,mobileNo,registeredDate,department) >
+<!ELEMENT id (#PCDATA) >
+<!ELEMENT name (#PCDATA) >
+<!ELEMENT email (#PCDATA) >
+<!ELEMENT mobileNo (#PCDATA) >
+<!ELEMENT registeredDate (#PCDATA) >
+<!ELEMENT department (#PCDATA) >
+
+]>
+
+<users>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+    <staff>
+      <id></id>
+      <name></name>
+      <email></email>
+      <mobileNo></mobileNo>
+      <registeredDate></registeredDate>
+      <department></department>
+    </staff>
+  </users>

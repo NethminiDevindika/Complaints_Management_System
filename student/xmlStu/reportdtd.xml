@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE users[
+
+<!ELEMENT users (student)+ >
+<!ELEMENT student (Student_Id,username,email,password,roomNumber) >
+<!ELEMENT Student_Id (#PCDATA) >
+<!ELEMENT username (#PCDATA) >
+<!ELEMENT email (#PCDATA) >
+<!ELEMENT password (#PCDATA) >
+<!ELEMENT roomNumber (#PCDATA) >
+
+]>
+
+<users>
+    <student>
+      <Student_Id></Student_Id>
+      <username></username>
+      <email></email>
+      <password></password>
+      <roomNumber></roomNumber>
+    </student>
+    <student>
+      <Student_Id></Student_Id>
+      <username></username>
+      <email></email>
+      <password></password>
+      <roomNumber></roomNumber>
+    </student>
+    <student>
+      <Student_Id></Student_Id>
+      <username></username>
+      <email></email>
+      <password></password>
+      <roomNumber></roomNumber>
+    </student>
+  </users>
